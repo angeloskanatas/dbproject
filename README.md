@@ -58,7 +58,7 @@ pip3 install -r requirements.txt
 ```python 
 python3 run.py
 ``` 
-### After that the app will run at http://localhost:5000/. Finally login to the database throught the site by using the same credentials as shown before to login into MySQL.
+### After that the app will run at http://localhost:5000/. Finally login to the database throught the web app by using the same credentials as shown before for MySQL user so you can be able to manipulate data of the database
 
 ## Screenshots:
 
